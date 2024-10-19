@@ -14,29 +14,17 @@ const About = ({bgcolor,darkmode}) => {
           <p className="my-4  lg:text-nowrap "
            style={{ color: `${bgcolor==="white" ? "#000000" : "#A6A6A6"}`}}
           >
-            {/* I have Completed My <span className="font-bold">B.Tech Degree </span>From Ganga institute of technology and management  <br /> Engineering College, Kabalana. */}
-            {/* My Specilization in <span className="font-bold">Computer Science Engineering (CSE)</span> */}
+            
               I am a dedicated<span className="font-bold"> React Developer</span> with<span className="font-bold"> almost two years of experience </span> at <span className="font-bold">Tech Mahindra,</span><br/> 
               where I've honed my skills in building<span className="font-bold"> dynamic</span> and <span className="font-bold">responsive</span> web applications.
-             {/* My expertise lies in leveraging the React framework to create seamless user experiences and optimize performance.<br/>  */}
+          
 
-
-
-{/* I am passionate about continuous learning and staying updated with industry trends, which enables me to implement best practices in my work. I thrive in fast-paced environments and am committed to contributing to innovative projects that make a difference. */} 
             <br />{" "}
           </p>
 
           <p className="lg:text-nowrap"
            style={{ color: `${bgcolor==="white" ? "#000000" : "#A6A6A6"}`}}       
           >
-            {/* My aim is to bring across your message and identity in the most
-            creative way. I <br />
-            creates <span className="font-bold">web design</span> for different screen sizes.<br/>
-            <br/>
-            Proven ability to create <span className="font-bold">reusable components </span> for an
-            enterprise-level web application.<br/>Passionate about <span className="font-bold">technology and building scalable web
-            solutions </span> */}
-
            During my time at Tech Mahindra, I have collaborated with cross-functional teams
           to deliver high-quality<br/> software solutions, focusing on code efficiency and maintainability.
           I have experience in integrating<br/>
