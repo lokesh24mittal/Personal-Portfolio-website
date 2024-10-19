@@ -7,15 +7,12 @@ import { IoLocationSharp } from "react-icons/io5";
 import { AiTwotoneMail } from "react-icons/ai";
 import { BsCalendarDate } from "react-icons/bs";
 import { MdOutlineFileDownload } from "react-icons/md";
-import Anurag from "./SocialLinks/myphoto.jpeg";
 import "../Components/Global.css";
-import cv from "../Components/SocialLinks/Resume.pdf";
+import cv from "../Components/SocialLinks/Lokesh_Mittal Resume.pdf";
 import { FaRegUser } from "react-icons/fa";
-import { PiNotepad } from "react-icons/pi";
 import { FaLaptopCode } from "react-icons/fa";
 import { TiContacts } from "react-icons/ti";
 import { AiOutlineSafetyCertificate } from "react-icons/ai";
-import { LiaBlogSolid } from "react-icons/lia";
 import { NavLink } from "react-router-dom";
 
 const Profile = ({ show, setShow, darkmode, bgcolor,setCross }) => {
